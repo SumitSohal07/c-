@@ -1,0 +1,14 @@
+C:\Users\sumit\OneDrive\Desktop\C#\ques 2\bin\Debug\net8.0\ques 2.exe
+C:\Users\sumit\OneDrive\Desktop\C#\ques 2\bin\Debug\net8.0\ques 2.deps.json
+C:\Users\sumit\OneDrive\Desktop\C#\ques 2\bin\Debug\net8.0\ques 2.runtimeconfig.json
+C:\Users\sumit\OneDrive\Desktop\C#\ques 2\bin\Debug\net8.0\ques 2.dll
+C:\Users\sumit\OneDrive\Desktop\C#\ques 2\bin\Debug\net8.0\ques 2.pdb
+C:\Users\sumit\OneDrive\Desktop\C#\ques 2\obj\Debug\net8.0\ques 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sumit\OneDrive\Desktop\C#\ques 2\obj\Debug\net8.0\ques 2.AssemblyInfoInputs.cache
+C:\Users\sumit\OneDrive\Desktop\C#\ques 2\obj\Debug\net8.0\ques 2.AssemblyInfo.cs
+C:\Users\sumit\OneDrive\Desktop\C#\ques 2\obj\Debug\net8.0\ques 2.csproj.CoreCompileInputs.cache
+C:\Users\sumit\OneDrive\Desktop\C#\ques 2\obj\Debug\net8.0\ques 2.dll
+C:\Users\sumit\OneDrive\Desktop\C#\ques 2\obj\Debug\net8.0\refint\ques 2.dll
+C:\Users\sumit\OneDrive\Desktop\C#\ques 2\obj\Debug\net8.0\ques 2.pdb
+C:\Users\sumit\OneDrive\Desktop\C#\ques 2\obj\Debug\net8.0\ques 2.genruntimeconfig.cache
+C:\Users\sumit\OneDrive\Desktop\C#\ques 2\obj\Debug\net8.0\ref\ques 2.dll
