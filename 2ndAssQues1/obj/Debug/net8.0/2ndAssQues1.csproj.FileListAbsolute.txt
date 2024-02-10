@@ -1,0 +1,14 @@
+C:\Users\sumit\OneDrive\Desktop\C#\2ndAssQues1\obj\Debug\net8.0\2ndAssQues1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sumit\OneDrive\Desktop\C#\2ndAssQues1\obj\Debug\net8.0\2ndAssQues1.AssemblyInfoInputs.cache
+C:\Users\sumit\OneDrive\Desktop\C#\2ndAssQues1\obj\Debug\net8.0\2ndAssQues1.AssemblyInfo.cs
+C:\Users\sumit\OneDrive\Desktop\C#\2ndAssQues1\obj\Debug\net8.0\2ndAssQues1.csproj.CoreCompileInputs.cache
+C:\Users\sumit\OneDrive\Desktop\C#\2ndAssQues1\bin\Debug\net8.0\2ndAssQues1.exe
+C:\Users\sumit\OneDrive\Desktop\C#\2ndAssQues1\bin\Debug\net8.0\2ndAssQues1.deps.json
+C:\Users\sumit\OneDrive\Desktop\C#\2ndAssQues1\bin\Debug\net8.0\2ndAssQues1.runtimeconfig.json
+C:\Users\sumit\OneDrive\Desktop\C#\2ndAssQues1\bin\Debug\net8.0\2ndAssQues1.dll
+C:\Users\sumit\OneDrive\Desktop\C#\2ndAssQues1\bin\Debug\net8.0\2ndAssQues1.pdb
+C:\Users\sumit\OneDrive\Desktop\C#\2ndAssQues1\obj\Debug\net8.0\2ndAssQues1.dll
+C:\Users\sumit\OneDrive\Desktop\C#\2ndAssQues1\obj\Debug\net8.0\refint\2ndAssQues1.dll
+C:\Users\sumit\OneDrive\Desktop\C#\2ndAssQues1\obj\Debug\net8.0\2ndAssQues1.pdb
+C:\Users\sumit\OneDrive\Desktop\C#\2ndAssQues1\obj\Debug\net8.0\2ndAssQues1.genruntimeconfig.cache
+C:\Users\sumit\OneDrive\Desktop\C#\2ndAssQues1\obj\Debug\net8.0\ref\2ndAssQues1.dll
